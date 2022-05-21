@@ -1,5 +1,9 @@
 # Calculadora-de-absenteismo
 fiz essa calculadora para ajudar em admiração e gestação hospitalar ela está em PYTHON.
+
+
+
+
 #{calculadora de absenteismo} ...vapo...
 colab = float(input('digite o total de colaboradores'))
 faltas = float(input('digite o total de faltas e atrasos'))
