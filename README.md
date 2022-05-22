@@ -1,5 +1,5 @@
 # Calculadora-de-absenteismo
-fiz essa calculadora para ajudar em admiração e gestação hospitalar ela está em PYTHON.
+fiz essa calculadora para ajudar em administração e gestação hospitalar ela está em PYTHON.
 
 
 
